@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+.mainDiv{
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inDivs{
+  display: flex;
+  width: fit-content;
+  height: fit-content;
+}
